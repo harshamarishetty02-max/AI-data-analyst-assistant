@@ -50,6 +50,23 @@ streamlit run app.py
 * Multi-file analysis
 * Enhanced dashboard UI
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home_page.png)
+
+### Dataset Preview
+![Dataset Preview](screenshots/dataset_preview.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### AI Question Answering
+![AI Chat](screenshots/ai_chat.png)
+
+### Download Report
+![Download Report](screenshots/download_report.png)
+
 ## Author
 
 Harsha Marishetty
