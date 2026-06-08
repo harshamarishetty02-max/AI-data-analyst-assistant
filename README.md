@@ -74,6 +74,12 @@ streamlit run app.py
 ![Download Report](screenshots/<img width="1687" height="784" alt="download_report" src="https://github.com/user-attachments/assets/ff9c9c73-8fcd-4924-8a3f-700fa5667d07" />
 )
 
+
+## Live Demo
+
+[Open Application](https://ai-data-analyst-assistant-dyddfemuo8pckez8szx8lh.streamlit.app/)
+
+
 ## Author
 
 Harsha Marishetty
