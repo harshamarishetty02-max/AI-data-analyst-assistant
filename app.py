@@ -5,8 +5,9 @@ import plotly.express as px
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-genai.configure(api_key="AQ.Ab8RN6JqXdRXElg0J3kaBcV2vfvtm3mMvV3OY2LLVHzdUOKW5Q")
-
+genai.configure(
+    api_key=os.getenv("GEMINI_API_KEY")
+)
 model = genai.GenerativeModel("gemini-2.5-flash")
 
 
